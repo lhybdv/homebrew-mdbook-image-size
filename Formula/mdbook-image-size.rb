@@ -1,7 +1,7 @@
 class MdbookImageSize < Formula
   desc ""
   homepage ""
-  url "https://github.com/lhybdv/mdbook-image-size.git", branch: main
+  head "https://github.com/lhybdv/mdbook-image-size.git", branch: main
   version "0.1.0"
   sha256 ""
   license "MIT"
